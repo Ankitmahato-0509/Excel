@@ -19,7 +19,7 @@ Each section includes the **Excel file name and a screenshot of the output for q
 **File:** `02.Autofill.xlsx`
 
 **Screenshot:**  
-![Autofill](https://github.com/Ankitmahato-0509/Excel/blob/main/images/autofill.png?raw=true)
+![Autofill](https://github.com/Ankitmahato-0509/Excel/blob/7a621e7dd1b7be3b313dac7af323dd0c74449c2a/images/Screenshot%202026-03-06%20141634.png)
 
 ---
 
@@ -33,4 +33,5 @@ Each section includes the **Excel file name and a screenshot of the output for q
 ---
 
 ## 📂 Repository Structure
+
 
