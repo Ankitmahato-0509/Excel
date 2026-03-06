@@ -10,7 +10,7 @@ Each section includes the **Excel file name and a screenshot of the output for q
 **File:** `01.Basic Formulas.xlsx`
 
 **Screenshot:**
-![Basic Formulas](screenshots/basic-formulas.png)
+![Basic Formulas]([screenshots/basic-formulas.png](https://github.com/Ankitmahato-0509/Excel/blob/main/images/Screenshot%202026-03-06%20141356.png?raw=true))
 
 ---
 
@@ -56,3 +56,4 @@ Excel-Learning/
 * Practice **Excel basics**
 * Keep **reference examples**
 * Track my **learning progress**
+
