@@ -30,15 +30,12 @@ Each section includes the **Excel file name and a screenshot of the output for q
 **Screenshot:**  
 ![Find & Replace]
 
-[Before Apply]
+![Before Apply](https://github.com/Ankitmahato-0509/Excel/blob/5412bbf93ec9672c37c55a5974ada167b47d5a23/images/Screenshot%202026-03-06%20141717.png)
 
-(https://github.com/Ankitmahato-0509/Excel/blob/5412bbf93ec9672c37c55a5974ada167b47d5a23/images/Screenshot%202026-03-06%20141717.png)
-
-[After Apply]
-
-(https://github.com/Ankitmahato-0509/Excel/blob/5412bbf93ec9672c37c55a5974ada167b47d5a23/images/Screenshot%202026-03-06%20141738.png)
+![After Apply](https://github.com/Ankitmahato-0509/Excel/blob/5412bbf93ec9672c37c55a5974ada167b47d5a23/images/Screenshot%202026-03-06%20141738.png)
 
 ---
+
 
 
 
