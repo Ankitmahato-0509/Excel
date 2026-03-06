@@ -1,6 +1,6 @@
 # 📘 Stuff I Learn About Excel for Reference
 
-This repository contains my **personal notes and practice files on Excel**.
+This repository contains my **personal notes and practice files on Excel**.  
 Each section includes the **Excel file name and a screenshot of the output for quick reference.**
 
 ---
@@ -9,8 +9,8 @@ Each section includes the **Excel file name and a screenshot of the output for q
 
 **File:** `01.Basic Formulas.xlsx`
 
-**Screenshot:**
-![Basic Formulas]([screenshots/basic-formulas.png](https://github.com/Ankitmahato-0509/Excel/blob/main/images/Screenshot%202026-03-06%20141356.png?raw=true))
+**Screenshot:**  
+![Basic Formulas](https://github.com/Ankitmahato-0509/Excel/blob/main/images/Screenshot%202026-03-06%20141356.png?raw=true)
 
 ---
 
@@ -18,8 +18,8 @@ Each section includes the **Excel file name and a screenshot of the output for q
 
 **File:** `02.Autofill.xlsx`
 
-**Screenshot:**
-![Autofill](screenshots/autofill.png)
+**Screenshot:**  
+![Autofill](https://github.com/Ankitmahato-0509/Excel/blob/main/images/autofill.png?raw=true)
 
 ---
 
@@ -27,33 +27,10 @@ Each section includes the **Excel file name and a screenshot of the output for q
 
 **File:** `03.Find & Replace.xlsx`
 
-**Screenshot:**
-![Find & Replace](screenshots/find-replace.png)
+**Screenshot:**  
+![Find & Replace](https://github.com/Ankitmahato-0509/Excel/blob/main/images/find-replace.png?raw=true)
 
 ---
 
 ## 📂 Repository Structure
-
-```
-Excel-Learning/
-│
-├── 01.Basic Formulas.xlsx
-├── 02.Autofill.xlsx
-├── 03.Find & Replace.xlsx
-│
-├── screenshots/
-│   ├── basic-formulas.png
-│   ├── autofill.png
-│   └── find-replace.png
-│
-└── README.md
-```
-
----
-
-## 🎯 Purpose
-
-* Practice **Excel basics**
-* Keep **reference examples**
-* Track my **learning progress**
 
