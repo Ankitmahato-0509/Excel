@@ -1,4 +1,4 @@
-# 📘 Stuff I Learn About Excel for Reference
+# Stuff I Learn About Excel for Reference
 
 This repository contains my **personal notes and practice files on Excel**.  
 Each section includes the **Excel file name and a screenshot of the output for quick reference.**
@@ -38,6 +38,7 @@ Each section includes the **Excel file name and a screenshot of the output for q
 ![After Apply](https://github.com/Ankitmahato-0509/Excel/blob/5412bbf93ec9672c37c55a5974ada167b47d5a23/images/Screenshot%202026-03-06%20141738.png)
 
 ---
+
 
 
 
