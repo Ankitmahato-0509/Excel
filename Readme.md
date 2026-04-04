@@ -74,3 +74,33 @@ Each section includes the **Excel file name and a screenshot of the output for q
 
 ---
 
+Here’s a clean **04 section** you can add to your README:
+
+---
+
+## 04. Text Function & Sorting Data
+## 04. Text Function & Sorting Data
+
+**File:** `Text Function & Sorting Data.xlsx`
+
+### Concepts Covered:
+
+* Using text functions: UPPER(), LOWER(), PROPER(), LEN()
+* Extracting text using LEFT(), RIGHT(), MID()
+* Combining text using CONCAT() / &
+* Cleaning data using TRIM()
+* Using Text to Columns feature
+* Transposing data (rows ↔ columns)
+* Sorting data (A–Z, Z–A, multi-level sorting)
+
+### Screenshots:
+
+![Text Functions](https://github.com/Ankitmahato-0509/Excel/blob/main/images/Screenshot%202026-04-04%20224440.png?raw=true)
+
+![Trim Function](https://github.com/Ankitmahato-0509/Excel/blob/main/images/Screenshot%202026-04-04%20224522.png?raw=true)
+
+![Transpose Function](https://github.com/Ankitmahato-0509/Excel/blob/main/images/Screenshot%202026-04-04%20224543.png?raw=true)
+
+![Text to Column](https://github.com/Ankitmahato-0509/Excel/blob/main/images/Screenshot%202026-04-04%20224558.png?raw=true)
+
+---
