@@ -20,11 +20,11 @@ Each section includes the **Excel file name and a screenshot of the output for q
 
 #### Item Spreadsheet:
 
-![Item Spreadsheet](https://github.com/Ankitmahato-0509/Excel/blob/main/images/Screenshot%2026-04-04%215323.png?raw=true)
+![Item Spreadsheet](https://github.com/Ankitmahato-0509/Excel/blob/main/images/Screenshot%2026-04-04%215323.png)
 
 #### Student Weight Calculations:
 
-![Student Weight](https://github.com/Ankitmahato-0509/Excel/blob/main/images/Screenshot%2026-04-04%215344.png?raw=true)
+![Student Weight](https://github.com/Ankitmahato-0509/Excel/blob/main/images/Screenshot%2026-04-04%20215344.png).
 
 ---
 
