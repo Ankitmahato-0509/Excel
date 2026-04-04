@@ -74,11 +74,6 @@ Each section includes the **Excel file name and a screenshot of the output for q
 
 ---
 
-Here’s a clean **04 section** you can add to your README:
-
----
-
-## 04. Text Function & Sorting Data
 ## 04. Text Function & Sorting Data
 
 **File:** `Text Function & Sorting Data.xlsx`
