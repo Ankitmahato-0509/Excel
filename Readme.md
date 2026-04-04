@@ -26,7 +26,7 @@ Each section includes the **Excel file name and a screenshot of the output for q
 
 ![Student Weight](https://github.com/Ankitmahato-0509/Excel/blob/main/images/Screenshot%202026-04-04%20215323.png?raw=true).
 
----
+
 
 ## 02. Autofill
 
@@ -46,7 +46,7 @@ Each section includes the **Excel file name and a screenshot of the output for q
 
 ![Autofill](https://github.com/Ankitmahato-0509/Excel/blob/7a621e7dd1b7be3b313dac7af323dd0c74449c2a/images/Screenshot%202026-03-06%20141634.png)
 
----
+
 
 ## 03. Find & Replace
 
@@ -72,7 +72,7 @@ Each section includes the **Excel file name and a screenshot of the output for q
 
 ![After Apply](https://github.com/Ankitmahato-0509/Excel/blob/5412bbf93ec9672c37c55a5974ada167b47d5a23/images/Screenshot%202026-03-06%20141738.png)
 
----
+
 
 ## 04. Text Function & Sorting Data
 
@@ -98,4 +98,4 @@ Each section includes the **Excel file name and a screenshot of the output for q
 
 ![Text to Column](https://github.com/Ankitmahato-0509/Excel/blob/main/images/Screenshot%202026-04-04%20224558.png?raw=true)
 
----
+
