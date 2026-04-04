@@ -20,7 +20,7 @@ Each section includes the **Excel file name and a screenshot of the output for q
 
 #### Item Spreadsheet:
 
-![Item Spreadsheet](https://github.com/Ankitmahato-0509/Excel/blob/main/images/Screenshot%202026-04-04%20215323.png?raw=true)
+![Item Spreadsheet](https://github.com/Ankitmahato-0509/Excel/blob/main/images/Screenshot%2026-04-04%215344.png.png?raw=true)
 
 #### Student Weight Calculations:
 
