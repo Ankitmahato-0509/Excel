@@ -125,9 +125,9 @@ Here is your **clean README section without emojis**, fully professional and rea
 
 Screenshot:
 
-```markdown
+
 ![Relative Referencing](https://github.com/Ankitmahato-0509/Excel/blob/main/images/Screenshot%202026-04-06%20101008.png?raw=true)
-```
+
 
 
 ### Absolute Referencing
@@ -137,9 +137,9 @@ Screenshot:
 
 Screenshot:
 
-```markdown
+
 ![Absolute Referencing](https://github.com/Ankitmahato-0509/Excel/blob/main/images/Screenshot%202026-04-06%20104217.png?raw=true)
-```
+
 
 
 
@@ -151,9 +151,9 @@ Screenshot:
 
 Screenshot:
 
-```markdown
+
 ![Mixed Referencing](https://github.com/Ankitmahato-0509/Excel/blob/main/images/Screenshot%202026-04-06%20114655.png?raw=true)
-```
+
 
 
 ### Electricity Bill Example
@@ -164,9 +164,9 @@ Screenshot:
 
 Screenshot:
 
-```markdown
+
 ![Electricity Bill](https://github.com/Ankitmahato-0509/Excel/blob/main/images/Screenshot%202026-04-06%20115909.png?raw=true)
-```
+
 
 
 
