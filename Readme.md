@@ -99,3 +99,75 @@ Each section includes the **Excel file name and a screenshot of the output for q
 ![Text to Column](https://github.com/Ankitmahato-0509/Excel/blob/main/images/Screenshot%202026-04-04%20224558.png?raw=true)
 
 
+Here is your **clean README section without emojis**, fully professional and ready to paste:
+
+
+
+## 05. Cell Referencing (Relative, Absolute & Mixed)
+
+**File:** `05.Cell Referencing.xlsx`
+
+### Concepts Covered:
+
+* Understanding cell referencing in Excel
+* Difference between Relative, Absolute, and Mixed references
+* Using `$` to lock rows and/or columns
+* Copying formulas without breaking references
+* Practical use cases in calculations
+* Improving accuracy in large datasets
+
+
+
+### Relative Referencing
+
+* Automatically adjusts when copied
+* Example: `=A1+B1 → =A2+B2`
+
+Screenshot:
+
+```markdown
+![Relative Referencing](https://github.com/Ankitmahato-0509/Excel/blob/main/images/Screenshot%202026-04-06%20101008.png?raw=true)
+```
+
+
+### Absolute Referencing
+
+* Fixed reference using `$`
+* Example: `=$B$3`
+
+Screenshot:
+
+```markdown
+![Absolute Referencing](https://github.com/Ankitmahato-0509/Excel/blob/main/images/Screenshot%202026-04-06%20104217.png?raw=true)
+```
+
+
+
+### Mixed Referencing
+
+* Combination of relative and absolute
+* `$A1` → column fixed
+* `A$1` → row fixed
+
+Screenshot:
+
+```markdown
+![Mixed Referencing](https://github.com/Ankitmahato-0509/Excel/blob/main/images/Screenshot%202026-04-06%20114655.png?raw=true)
+```
+
+
+### Electricity Bill Example
+
+* Units Used = Present − Previous
+* Units Charge = Units × Unit Cost
+* Amount = Charge + Standing Charge
+
+Screenshot:
+
+```markdown
+![Electricity Bill](https://github.com/Ankitmahato-0509/Excel/blob/main/images/Screenshot%202026-04-06%20115909.png?raw=true)
+```
+
+
+
+
