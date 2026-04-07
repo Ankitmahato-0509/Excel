@@ -137,7 +137,7 @@ Screenshot:
 Screenshot:
 
 
-![Absolute Referencing](https://github.com/Ankitmahato-0509/Excel/blob/main/images/Screenshot%202026-04-06%20104217.png?raw=true).
+![Absolute Referencing](https://github.com/Ankitmahato-0509/Excel/blob/9faa8d961625cda85c9c1880df1081dbe0faccb5/images/Screenshot%202026-04-06%20232109.png?raw=true).
 
 
 
@@ -151,7 +151,7 @@ Screenshot:
 Screenshot:
 
 
-![Mixed Referencing](https://github.com/Ankitmahato-0509/Excel/blob/main/images/Screenshot%202026-04-06%20114655.png?raw=true).
+![Mixed Referencing](https://github.com/Ankitmahato-0509/Excel/blob/9faa8d961625cda85c9c1880df1081dbe0faccb5/images/Screenshot%202026-04-06%20232135.png?raw=true).
 
 
 
@@ -164,7 +164,7 @@ Screenshot:
 Screenshot:
 
 
-![Electricity Bill](https://github.com/Ankitmahato-0509/Excel/blob/main/images/Screenshot%202026-04-06%20115909.png?raw=true).
+![Electricity Bill](https://github.com/Ankitmahato-0509/Excel/blob/9faa8d961625cda85c9c1880df1081dbe0faccb5/images/Screenshot%202026-04-06%20232156.png?raw=true).
 
 
 
