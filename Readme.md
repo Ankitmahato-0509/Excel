@@ -99,9 +99,6 @@ Each section includes the **Excel file name and a screenshot of the output for q
 ![Text to Column](https://github.com/Ankitmahato-0509/Excel/blob/main/images/Screenshot%202026-04-04%20224558.png?raw=true)
 
 
-Here is your **clean README section without emojis**, fully professional and ready to paste:
-
-
 
 ## 05. Cell Referencing (Relative, Absolute & Mixed)
 
@@ -126,7 +123,9 @@ Here is your **clean README section without emojis**, fully professional and rea
 Screenshot:
 
 
-![Relative Referencing](https://github.com/Ankitmahato-0509/Excel/blob/main/images/Screenshot%2026-04-06%232021.png?raw=true).
+![Relative Referencing](https://github.com/Ankitmahato-0509/Excel/blob/535c254f92e19d6c8d94aa4332873cae07167f70/images/Screenshot%202026-04-06%20232021.png?raw=true).
+
+
 
 
 
