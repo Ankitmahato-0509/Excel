@@ -126,7 +126,7 @@ Here is your **clean README section without emojis**, fully professional and rea
 Screenshot:
 
 
-![Relative Referencing](https://github.com/Ankitmahato-0509/Excel/blob/main/images/Screenshot%202026-04-06%20101008.png?raw=true)
+![Relative Referencing](https://github.com/Ankitmahato-0509/Excel/blob/main/images/Screenshot%2026-04-06%232021.png?raw=true)
 
 
 
