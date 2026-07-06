@@ -167,6 +167,69 @@ Screenshot:
 ![Electricity Bill](https://github.com/Ankitmahato-0509/Excel/blob/9faa8d961625cda85c9c1880df1081dbe0faccb5/images/Screenshot%202026-04-06%20232156.png?raw=true).
 
 
+# 06. Data Validation
+
+**File:** `06.Data Validation.xlsx`
+
+### Concepts Covered:
+
+* Restricting user input using **Data Validation**
+* Allowing only **whole numbers within a specified range**
+* Creating **drop-down lists** for predefined values
+* Displaying **Input Messages** to guide users
+* Showing **Error Alerts** for invalid entries
+* Improving data accuracy and consistency
+* Preventing incorrect or unwanted data entry
+
+### Example Demonstration
+
+This worksheet compares data entry **with and without Data Validation** to demonstrate how validation helps maintain clean and consistent data.
+
+Without Data Validation:
+- Users can enter any value, including invalid data.
+- Different formats and inconsistent entries may occur.
+
+With Data Validation:
+- Only permitted values can be entered.
+- Input messages guide users before entering data.
+- Error alerts prevent invalid entries.
+
+### Screenshot
+
+![Data Validation Demo](https://github.com/Ankitmahato-0509/Excel/blob/main/images/Screenshot%202026-07-06%20231700.png?raw=true)
+
+---
+
+## Data Validation Exercises
+
+This worksheet contains practical exercises to reinforce Data Validation concepts.
+
+### Exercises Covered
+
+**Whole Number Validation**
+
+* Accept only whole numbers from **1 to 10**
+* Display a custom **Input Message**
+* Show an **Error Alert** when invalid values are entered
+
+**Drop-down List Validation**
+
+* Create a **Gender** drop-down list containing:
+  * Male
+  * Female
+
+**Colour List Validation**
+
+* Create a drop-down list of predefined colours.
+* Restrict users to selecting only values from the list.
+
+These exercises demonstrate how Data Validation improves data quality and provides a better user experience during data entry.
+
+### Screenshot
+
+![Data Validation Exercises](https://github.com/Ankitmahato-0509/Excel/blob/main/images/Screenshot%202026-07-06%20231753.png?raw=true)
+
+
 
 
 
