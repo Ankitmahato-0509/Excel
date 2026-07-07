@@ -198,7 +198,6 @@ With Data Validation:
 
 ![Data Validation Demo](https://github.com/Ankitmahato-0509/Excel/blob/main/images/Screenshot%202026-07-06%20231700.png?raw=true)
 
----
 
 ## Data Validation Exercises
 
@@ -230,6 +229,40 @@ These exercises demonstrate how Data Validation improves data quality and provid
 ![Data Validation Exercises](https://github.com/Ankitmahato-0509/Excel/blob/main/images/Screenshot%202026-07-06%20231753.png?raw=true)
 
 
+# 07. Conditional Formatting
+
+**File:** `07.Conditional Formatting.xlsx`
+
+### Concepts Covered:
+
+* Automatically formatting cells based on specified conditions
+* Highlighting values greater than a given number
+* Using comparison rules (Greater Than, Less Than, Between)
+* Identifying important values with custom formatting
+* Applying formatting without changing the actual data
+* Improving data visualization and analysis
+* Using Conditional Formatting to quickly identify trends and outliers
+
+### Example Demonstration
+
+This worksheet demonstrates how **Conditional Formatting** automatically highlights cells that meet specific conditions.
+
+Examples include:
+
+- Highlighting values **greater than 7**
+- Automatically changing cell formatting when conditions are met
+- Making important values easier to identify at a glance
+
+### Exercise
+
+The worksheet also contains a practical exercise where:
+
+- Values between **55** and **102** are automatically highlighted.
+- Users can practice applying Conditional Formatting rules using different conditions and formatting styles.
+
+### Screenshot
+
+![Conditional Formatting](https://github.com/Ankitmahato-0509/Excel/blob/main/images/Screenshot%202026-07-07%20115300.png?raw=true)
 
 
 
