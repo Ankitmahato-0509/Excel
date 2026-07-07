@@ -235,35 +235,92 @@ These exercises demonstrate how Data Validation improves data quality and provid
 
 ### Concepts Covered:
 
-* Automatically formatting cells based on specified conditions
-* Highlighting values greater than a given number
-* Using comparison rules (Greater Than, Less Than, Between)
-* Identifying important values with custom formatting
-* Applying formatting without changing the actual data
-* Improving data visualization and analysis
-* Using Conditional Formatting to quickly identify trends and outliers
+* Highlighting cells based on specified conditions
+* Using **Greater Than**, **Less Than**, and **Between** rules
+* Applying **Color Scales** to visualize value ranges
+* Using **Data Bars** to compare values visually
+* Applying **Icon Sets** to represent performance
+* Formatting dates based on custom conditions
+* Improving data visualization without modifying the original values
 
-### Example Demonstration
+---
 
-This worksheet demonstrates how **Conditional Formatting** automatically highlights cells that meet specific conditions.
+## Example Demonstration
 
-Examples include:
+This worksheet introduces the basics of **Conditional Formatting** by automatically highlighting values that satisfy predefined rules.
 
-- Highlighting values **greater than 7**
-- Automatically changing cell formatting when conditions are met
-- Making important values easier to identify at a glance
+### Examples:
 
-### Exercise
-
-The worksheet also contains a practical exercise where:
-
-- Values between **55** and **102** are automatically highlighted.
-- Users can practice applying Conditional Formatting rules using different conditions and formatting styles.
+- Highlight values **greater than 7**
+- Automatically apply formatting when conditions are met
+- Improve readability by emphasizing important values
 
 ### Screenshot
 
-![Conditional Formatting](https://github.com/Ankitmahato-0509/Excel/blob/main/images/Screenshot%202026-07-07%20115603.png?raw=true)
+![Conditional Formatting](https://github.com/Ankitmahato-0509/Excel/blob/main/images/Screenshot%202026-07-07%20223728.png?raw=true)
 
+---
 
+## Exercise 1 – Date-Based Conditional Formatting
+
+This exercise demonstrates how to apply Conditional Formatting to dates using multiple conditions.
+
+### Rules Applied
+
+- Dates **greater than 01-Sep-2007** → **Green**
+- Dates **between 01-May-2007 and 01-Sep-2007** → **Blue**
+- Dates **less than 01-May-2007** → **Red**
+
+### Skills Learned
+
+- Formatting dates using conditional rules
+- Applying multiple rules to the same range
+- Visual categorization of date values
+
+### Screenshot
+
+![CF Exercise 1](https://github.com/Ankitmahato-0509/Excel/blob/main/images/Screenshot%202026-07-07%20223640.png?raw=true)
+
+---
+
+## Exercise 2 – Data Bars & Color Scales
+
+This exercise demonstrates two popular Conditional Formatting features used in dashboards and reports.
+
+### Data Bars
+
+- Display relative values using horizontal bars inside cells.
+- Quickly compare numeric values without creating charts.
+
+### Color Scales
+
+- Apply gradient colors based on cell values.
+- Higher values appear with stronger colors while lower values use lighter colors.
+
+### Skills Learned
+
+- Visual comparison of numerical data
+- Identifying high and low values instantly
+- Enhancing dashboards with built-in visual indicators
+
+### Screenshot
+
+![CF Exercise 2](https://github.com/Ankitmahato-0509/Excel/blob/main/images/Screenshot%202026-07-07%20223658.png?raw=true)
+
+---
+
+## Exercise 3 – Icon Sets
+
+This exercise demonstrates how **Icon Sets** can visually represent employee performance.
+
+### Skills Learned
+
+- Applying directional arrow icons
+- Representing performance using visual indicators
+- Improving report readability with icons
+
+### Screenshot
+
+![CF Exercise 3](https://github.com/Ankitmahato-0509/Excel/blob/main/images/Screenshot%202026-07-07%20223714.png?raw=true)
 
 
