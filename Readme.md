@@ -262,7 +262,7 @@ The worksheet also contains a practical exercise where:
 
 ### Screenshot
 
-![Conditional Formatting](https://github.com/Ankitmahato-0509/Excel/blob/main/images/Screenshot%202026-07-07%20115300.png?raw=true)
+![Conditional Formatting](https://github.com/Ankitmahato-0509/Excel/blob/main/images/Screenshot%202026-07-07%20115111.png?raw=true)
 
 
 
