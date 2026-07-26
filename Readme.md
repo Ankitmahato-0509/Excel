@@ -324,3 +324,145 @@ This exercise demonstrates how **Icon Sets** can visually represent employee per
 ![CF Exercise 3](https://github.com/Ankitmahato-0509/Excel/blob/main/images/Screenshot%202026-07-07%20223714.png?raw=true)
 
 
+# 08. Sorting & Filtering
+
+**File:** `8.Sorting & Filtering.xlsx`
+
+### Concepts Covered
+
+* Sorting data in Ascending (A–Z / Smallest to Largest) order
+* Sorting data in Descending (Z–A / Largest to Smallest) order
+* Performing multi-level sorting using multiple columns
+* Using Auto Filter to display specific records
+* Filtering text, numbers, and dates
+* Applying Number Filters (Greater Than, Less Than, Between)
+* Using Advanced Filter for complex filtering conditions
+* Improving data analysis by displaying only relevant information
+
+---
+
+## Sorting
+
+Sorting is the process of arranging data into a meaningful order, making it easier to organize, compare, and analyze information. Data can be sorted alphabetically, numerically, or by date in either ascending or descending order.
+
+### Screenshot
+
+![Sorting](https://github.com/Ankitmahato-0509/Excel/blob/main/images/Screenshot%202026-07-26%20224009.png?raw=true)
+
+---
+
+## Filtering
+
+Filtering allows you to display only the records that meet specific criteria while temporarily hiding the remaining data. This helps you quickly focus on the information you need without changing the original dataset.
+
+### Screenshot
+
+![Filtering](https://github.com/Ankitmahato-0509/Excel/blob/main/images/Screenshot%202026-07-26%20224023.png?raw=true)
+
+---
+
+## Exercise 1 – Show Sales of MegaMart
+
+This exercise demonstrates how to filter data to display sales records for the **MegaMart** customer only.
+
+### Skills Learned
+
+* Using Auto Filter
+* Filtering records by customer name
+* Displaying customer-specific sales data
+
+### Screenshot
+
+![Exercise 1](https://github.com/Ankitmahato-0509/Excel/blob/main/images/Screenshot%202026-07-26%20224034(1).png?raw=true)
+
+---
+
+## Exercise 2 – Show MegaMart Sales for Cookies
+
+This exercise filters the dataset to display only sales where the **Customer is MegaMart** and the **Product is Cookies**.
+
+### Skills Learned
+
+* Applying multiple filter conditions
+* Filtering by customer and product
+* Viewing targeted sales records
+
+### Screenshot
+
+![Exercise 2](https://github.com/Ankitmahato-0509/Excel/blob/main/images/Screenshot%202026-07-26%20224044.png?raw=true)
+
+---
+
+## Exercise 3 – Show Sales Between $1,000 and $1,500
+
+This exercise uses **Number Filters** to display sales whose total amount falls between **$1,000** and **$1,500**.
+
+### Skills Learned
+
+* Using the Between number filter
+* Filtering numeric values within a range
+* Analyzing mid-range sales transactions
+
+### Screenshot
+
+![Exercise 3](https://github.com/Ankitmahato-0509/Excel/blob/main/images/Screenshot%202026-07-26%20224054.png?raw=true)
+
+---
+
+## Exercise 4 – Show Milk Sales Greater Than $1,000
+
+This exercise filters records where the **Product is Milk** and the **Total Sales are greater than $1,000**.
+
+### Skills Learned
+
+* Combining text and number filters
+* Using the Greater Than filter
+* Filtering product-specific sales
+
+### Screenshot
+
+![Exercise 4](https://github.com/Ankitmahato-0509/Excel/blob/main/images/Screenshot%202026-07-26%20224109.png?raw=true)
+
+---
+
+## Exercise 5 – Advanced Filter (MegaMart Cookies & MiniMart Milk)
+
+This exercise demonstrates the use of **Advanced Filter** to retrieve records matching multiple criteria:
+
+* MegaMart sales for Cookies
+* MiniMart sales for Milk
+
+### Skills Learned
+
+* Using Advanced Filter
+* Applying multiple OR conditions
+* Filtering complex datasets
+
+### Screenshot
+
+![Exercise 5](https://github.com/Ankitmahato-0509/Excel/blob/main/images/Screenshot%202026-07-26%20224125.png?raw=true)
+
+---
+
+## Exercise 6 – Advanced Filter with Multiple Conditions
+
+This exercise demonstrates advanced filtering using different conditions simultaneously.
+
+### Filter Conditions
+
+* MiniMart sales for **Cookies** where Total Sales are **greater than $2,000**
+* MiniMart sales for **Milk** where Total Sales are **less than $1,000**
+
+### Skills Learned
+
+* Advanced Filter with AND/OR logic
+* Applying multiple criteria
+* Solving real-world filtering scenarios
+
+### Screenshot
+
+![Exercise 6](https://github.com/Ankitmahato-0509/Excel/blob/main/images/Screenshot%202026-07-26%20224135.png?raw=true)
+
+---
+
+
