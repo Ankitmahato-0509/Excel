@@ -466,3 +466,66 @@ This exercise demonstrates advanced filtering using different conditions simulta
 ---
 
 
+# 09. Column Chart
+
+**File:** `9.Column Chart.xlsx`
+
+### Concepts Covered
+
+* Creating a Column Chart from worksheet data
+* Comparing multiple data series using columns
+* Adding and editing chart titles
+* Formatting chart elements
+* Displaying data labels
+* Customizing chart colors
+* Positioning the chart legend
+* Improving data visualization for reports and dashboards
+
+---
+
+## Column Chart
+
+A **Column Chart** is used to compare values across different categories using vertical bars. It is one of the most common chart types in Excel and is ideal for comparing multiple data series over time or across categories.
+
+### Skills Learned
+
+* Creating a clustered column chart
+* Comparing two data series
+* Understanding the X-axis and Y-axis
+* Visualizing monthly data effectively
+
+### Screenshot
+
+![Column Chart](https://github.com/Ankitmahato-0509/Excel/blob/main/images/Screenshot%202026-07-26%20225232.png?raw=true)
+
+---
+
+## Exercise – June Team Performance
+
+This exercise demonstrates how to create and customize a professional-looking Column Chart using team performance data.
+
+### Exercise Objectives
+
+* Create a Column Chart showing **Productivity** and **Quality %**
+* Add the chart title **"June Team Performance"**
+* Remove chart gridlines
+* Place the legend at the bottom
+* Display data labels
+* Change the plot area color
+* Customize the series colors
+
+### Skills Learned
+
+* Creating charts from selected data
+* Formatting chart titles
+* Adding data labels
+* Customizing chart appearance
+* Improving report presentation
+
+### Screenshot
+
+![Column Chart Exercise](https://github.com/Ankitmahato-0509/Excel/blob/main/images/Screenshot%202026-07-26%20225244.png?raw=true)
+
+---
+
+
