@@ -373,7 +373,7 @@ This exercise demonstrates how to filter data to display sales records for the *
 
 ### Screenshot
 
-![Exercise 1](https://github.com/Ankitmahato-0509/Excel/blob/main/images/Screenshot%202026-07-26%20224034(1).png?raw=true)
+![Exercise 1](https://github.com/Ankitmahato-0509/Excel/blob/main/images/Screenshot%202026-07-26%20224034.png?raw=true)
 
 ---
 
