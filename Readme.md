@@ -529,3 +529,159 @@ This exercise demonstrates how to create and customize a professional-looking Co
 ---
 
 
+# 10. Line Chart
+
+**File:** `10.Line Chart.xlsx`
+
+### Concepts Covered
+
+* Creating a 2D Line Chart
+* Displaying trends over time
+* Comparing multiple data series
+* Adding and formatting chart titles
+* Displaying data labels
+* Removing chart gridlines
+* Positioning the legend
+* Customizing plot area and series colors
+
+---
+
+## Line Chart
+
+A **Line Chart** is used to display trends and changes in data over time. It connects data points with straight lines, making it easy to compare multiple data series and identify patterns or fluctuations.
+
+### Skills Learned
+
+* Creating a 2D Line Chart
+* Comparing monthly sales data
+* Adding chart titles and data labels
+* Removing unnecessary gridlines
+* Formatting chart colors and plot area
+* Positioning the legend for better readability
+
+### Screenshot
+
+![Line Chart](https://github.com/Ankitmahato-0509/Excel/blob/main/images/Screenshot%202026-08-06%20101706.png?raw=true)
+
+---
+
+# 11. Pie Chart
+
+**File:** `11.Pie Chart.xlsx`
+
+### Concepts Covered
+
+* Creating a 3D Pie Chart
+* Displaying percentage contribution
+* Formatting chart titles
+* Exploding a pie slice
+* Displaying data labels
+* Moving the legend
+* Customizing chart colors
+
+---
+
+## Pie Chart
+
+A **Pie Chart** represents data as slices of a circle. Each slice shows the proportion of a category compared to the whole dataset, making it ideal for displaying percentages.
+
+### Skills Learned
+
+* Creating a 3D Pie Chart
+* Displaying percentages for each category
+* Exploding a selected slice
+* Changing slice colors
+* Formatting chart titles and legends
+* Improving chart presentation
+
+### Screenshot
+
+![Pie Chart](https://github.com/Ankitmahato-0509/Excel/blob/main/images/Screenshot%202026-08-06%20101801.png?raw=true)
+
+---
+
+# 12. Bar Chart
+
+**File:** `12.Bar Chart.xlsx`
+
+### Concepts Covered
+
+* Creating a 2D Bar Chart
+* Comparing product sales
+* Adding chart titles
+* Removing gridlines
+* Formatting the plot area
+* Changing series colors
+* Displaying data labels
+
+---
+
+## Bar Chart
+
+A **Bar Chart** uses horizontal or vertical bars to compare values across different categories. It provides a simple way to visualize differences between items.
+
+### Skills Learned
+
+* Creating a 2D Bar Chart
+* Comparing product sales visually
+* Formatting chart titles
+* Removing unnecessary gridlines
+* Customizing plot area colors
+* Changing series colors
+
+### Screenshot
+
+![Bar Chart](https://github.com/Ankitmahato-0509/Excel/blob/main/images/Screenshot%202026-08-06%20101814.png?raw=true)
+
+---
+
+# 13. Team Details (Protection)
+
+**File:** `13.Team Details (Protection).xlsx`
+
+### Concepts Covered
+
+* Workbook Password Protection
+* Read-Only Recommendation
+* Worksheet Protection
+* Protecting formulas from modification
+* Preventing accidental changes
+* Using passwords to control editing access
+
+---
+
+## Workbook Protection
+
+Workbook protection helps secure an Excel file by restricting unauthorized access or modifications. Passwords can be applied to open the workbook, modify its contents, or recommend opening it in read-only mode.
+
+### Skills Learned
+
+* Setting a password to open a workbook
+* Applying write protection (Read-Only Recommended)
+* Protecting worksheets from editing
+* Preserving formulas and important calculations
+* Securing Excel workbooks from unauthorized changes
+
+### Screenshots
+
+#### Workbook Protection
+
+![Workbook Protection](https://github.com/Ankitmahato-0509/Excel/blob/main/images/Screenshot%202026-08-06%20101856.png?raw=true)
+
+#### Password for Write Access
+
+![Write Access Password](https://github.com/Ankitmahato-0509/Excel/blob/main/images/Screenshot%202026-08-06%20101910.png?raw=true)
+
+#### Read-Only Save Message
+
+![Read Only Message](https://github.com/Ankitmahato-0509/Excel/blob/main/images/Screenshot%202026-08-06%20101934.png?raw=true)
+
+#### Protected Worksheet
+
+![Protected Worksheet](https://github.com/Ankitmahato-0509/Excel/blob/main/images/Screenshot%202026-08-06%20102007.png?raw=true)
+
+#### Computation Sheet
+
+![Computation Sheet](https://github.com/Ankitmahato-0509/Excel/blob/main/images/Screenshot%202026-08-06%20102026.png?raw=true)
+
+
