@@ -243,7 +243,7 @@ These exercises demonstrate how Data Validation improves data quality and provid
 * Formatting dates based on custom conditions
 * Improving data visualization without modifying the original values
 
----
+
 
 ## Example Demonstration
 
@@ -259,7 +259,7 @@ This worksheet introduces the basics of **Conditional Formatting** by automatica
 
 ![Conditional Formatting](https://github.com/Ankitmahato-0509/Excel/blob/main/images/Screenshot%202026-07-07%20223728.png?raw=true)
 
----
+
 
 ## Exercise 1 – Date-Based Conditional Formatting
 
@@ -281,7 +281,7 @@ This exercise demonstrates how to apply Conditional Formatting to dates using mu
 
 ![CF Exercise 1](https://github.com/Ankitmahato-0509/Excel/blob/main/images/Screenshot%202026-07-07%20223640.png?raw=true)
 
----
+
 
 ## Exercise 2 – Data Bars & Color Scales
 
@@ -307,7 +307,7 @@ This exercise demonstrates two popular Conditional Formatting features used in d
 
 ![CF Exercise 2](https://github.com/Ankitmahato-0509/Excel/blob/main/images/Screenshot%202026-07-07%20223658.png?raw=true)
 
----
+
 
 ## Exercise 3 – Icon Sets
 
@@ -339,7 +339,7 @@ This exercise demonstrates how **Icon Sets** can visually represent employee per
 * Using Advanced Filter for complex filtering conditions
 * Improving data analysis by displaying only relevant information
 
----
+
 
 ## Sorting
 
@@ -349,7 +349,7 @@ Sorting is the process of arranging data into a meaningful order, making it easi
 
 ![Sorting](https://github.com/Ankitmahato-0509/Excel/blob/main/images/Screenshot%202026-07-26%20224009.png?raw=true)
 
----
+
 
 ## Filtering
 
@@ -359,7 +359,7 @@ Filtering allows you to display only the records that meet specific criteria whi
 
 ![Filtering](https://github.com/Ankitmahato-0509/Excel/blob/main/images/Screenshot%202026-07-26%20224023.png?raw=true)
 
----
+
 
 ## Exercise 1 – Show Sales of MegaMart
 
@@ -375,7 +375,7 @@ This exercise demonstrates how to filter data to display sales records for the *
 
 ![Exercise 1](https://github.com/Ankitmahato-0509/Excel/blob/main/images/Screenshot%202026-07-26%20224034.png?raw=true)
 
----
+
 
 ## Exercise 2 – Show MegaMart Sales for Cookies
 
@@ -391,7 +391,7 @@ This exercise filters the dataset to display only sales where the **Customer is 
 
 ![Exercise 2](https://github.com/Ankitmahato-0509/Excel/blob/main/images/Screenshot%202026-07-26%20224044.png?raw=true)
 
----
+
 
 ## Exercise 3 – Show Sales Between $1,000 and $1,500
 
@@ -407,7 +407,7 @@ This exercise uses **Number Filters** to display sales whose total amount falls 
 
 ![Exercise 3](https://github.com/Ankitmahato-0509/Excel/blob/main/images/Screenshot%202026-07-26%20224054.png?raw=true)
 
----
+
 
 ## Exercise 4 – Show Milk Sales Greater Than $1,000
 
@@ -423,7 +423,7 @@ This exercise filters records where the **Product is Milk** and the **Total Sale
 
 ![Exercise 4](https://github.com/Ankitmahato-0509/Excel/blob/main/images/Screenshot%202026-07-26%20224109.png?raw=true)
 
----
+
 
 ## Exercise 5 – Advanced Filter (MegaMart Cookies & MiniMart Milk)
 
@@ -442,7 +442,7 @@ This exercise demonstrates the use of **Advanced Filter** to retrieve records ma
 
 ![Exercise 5](https://github.com/Ankitmahato-0509/Excel/blob/main/images/Screenshot%202026-07-26%20224125.png?raw=true)
 
----
+
 
 ## Exercise 6 – Advanced Filter with Multiple Conditions
 
@@ -463,7 +463,7 @@ This exercise demonstrates advanced filtering using different conditions simulta
 
 ![Exercise 6](https://github.com/Ankitmahato-0509/Excel/blob/main/images/Screenshot%202026-07-26%20224135.png?raw=true)
 
----
+
 
 
 # 09. Column Chart
@@ -481,7 +481,7 @@ This exercise demonstrates advanced filtering using different conditions simulta
 * Positioning the chart legend
 * Improving data visualization for reports and dashboards
 
----
+
 
 ## Column Chart
 
@@ -498,7 +498,7 @@ A **Column Chart** is used to compare values across different categories using v
 
 ![Column Chart](https://github.com/Ankitmahato-0509/Excel/blob/main/images/Screenshot%202026-07-26%20225232.png?raw=true)
 
----
+
 
 ## Exercise – June Team Performance
 
@@ -526,7 +526,7 @@ This exercise demonstrates how to create and customize a professional-looking Co
 
 ![Column Chart Exercise](https://github.com/Ankitmahato-0509/Excel/blob/main/images/Screenshot%202026-07-26%20225244.png?raw=true)
 
----
+
 
 
 # 10. Line Chart
@@ -544,7 +544,7 @@ This exercise demonstrates how to create and customize a professional-looking Co
 * Positioning the legend
 * Customizing plot area and series colors
 
----
+
 
 ## Line Chart
 
@@ -563,7 +563,7 @@ A **Line Chart** is used to display trends and changes in data over time. It con
 
 ![Line Chart](https://github.com/Ankitmahato-0509/Excel/blob/main/images/Screenshot%202026-08-06%20101706.png?raw=true)
 
----
+
 
 # 11. Pie Chart
 
@@ -598,7 +598,7 @@ A **Pie Chart** represents data as slices of a circle. Each slice shows the prop
 
 ![Pie Chart](https://github.com/Ankitmahato-0509/Excel/blob/main/images/Screenshot%202026-08-06%20101801.png?raw=true)
 
----
+
 
 # 12. Bar Chart
 
@@ -614,7 +614,7 @@ A **Pie Chart** represents data as slices of a circle. Each slice shows the prop
 * Changing series colors
 * Displaying data labels
 
----
+
 
 ## Bar Chart
 
@@ -633,7 +633,7 @@ A **Bar Chart** uses horizontal or vertical bars to compare values across differ
 
 ![Bar Chart](https://github.com/Ankitmahato-0509/Excel/blob/main/images/Screenshot%202026-08-06%20101814.png?raw=true)
 
----
+
 
 # 13. Team Details (Protection)
 
@@ -648,7 +648,6 @@ A **Bar Chart** uses horizontal or vertical bars to compare values across differ
 * Preventing accidental changes
 * Using passwords to control editing access
 
----
 
 ## Workbook Protection
 
