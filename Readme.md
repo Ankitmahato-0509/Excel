@@ -684,3 +684,153 @@ Workbook protection helps secure an Excel file by restricting unauthorized acces
 ![Computation Sheet](https://github.com/Ankitmahato-0509/Excel/blob/main/images/Screenshot%202026-08-06%20102026.png?raw=true)
 
 
+
+# 14. Pivot Table
+
+**File:** `14.Pivot Table.xlsx`
+
+### Concepts Covered
+
+- Creating Pivot Tables
+- Summarizing large datasets
+- Using Rows, Columns, Values and Filters
+- Analyzing sales data
+- Comparing salesperson performance
+- Finding top salespeople
+- Finding the top five salespeople
+- Comparing salesperson performance month by month
+- Analyzing product sales by store
+- Analyzing sales feedback by store
+- Analyzing product contribution
+
+---
+
+## Pivot Table 1
+
+Pivot Table 1 contains the original sales dataset used to create Pivot Tables.
+
+The dataset includes:
+
+- Date
+- Store
+- Customer
+- Product
+- Quantity
+- Price
+- Sale Type
+- Total
+- Feedback
+
+### Screenshot
+
+![Pivot Table 1](https://github.com/Ankitmahato-0509/Excel/blob/main/images/Screenshot%202026-08-11%20210556.png?raw=true)
+
+
+
+## PT 1.1 – Sales Feedback by Store
+
+This Pivot Table analyzes customer feedback for each store.
+
+It includes:
+
+- Did not Send
+- Negative
+- No Feedback
+- Positive
+- Grand Total
+
+### Screenshot
+
+![Sales Feedback by Store](https://github.com/Ankitmahato-0509/Excel/blob/main/images/Screenshot%202026-08-11%20210606.png?raw=true)
+
+
+
+## PT 1.2 – Product Sales by Store
+
+This Pivot Table compares the number of sales for different products across stores.
+
+Products analyzed include:
+
+- Bread
+- Butter
+- Cereal
+- Cheese
+- Chocolate
+- Coffee
+- Cookies
+- Juice
+- Milk
+- Yogurt
+
+### Screenshot
+
+![Product Sales by Store](https://github.com/Ankitmahato-0509/Excel/blob/main/images/Screenshot%202026-08-11%20210618.png?raw=true)
+
+
+## PT 1.3 – Product Contribution
+
+This Pivot Table shows the sales contribution of different products.
+
+It summarizes the total sales amount for products such as:
+
+- Bread
+- Butter
+- Cereal
+- Cheese
+- Chocolate
+- Coffee
+- Cookies
+- Juice
+- Milk
+- Yogurt
+
+### Screenshot
+
+![Product Contribution](https://github.com/Ankitmahato-0509/Excel/blob/main/images/Screenshot%202026-08-11%20210628.png?raw=true)
+
+
+## Pivot Table 2
+
+This sheet contains practical exercises for analyzing salesperson performance using Pivot Tables.
+
+### Exercises
+
+1. Create a simple report that totals orders for each salesperson.
+2. Show sales one country at a time.
+3. Find the top five salespeople.
+4. Compare salesperson performance month by month.
+
+### Screenshot
+
+![Pivot Table 2 Exercises](https://github.com/Ankitmahato-0509/Excel/blob/main/images/Screenshot%202026-08-11%20210750.png?raw=true)
+
+
+## PT 2.1 – Pivot Table Exercises
+
+This sheet contains the completed Pivot Table exercises.
+
+### Exercises Covered
+
+#### 1. Total Orders by Salesperson
+
+Created a report showing the total orders for each salesperson.
+
+#### 2. Sales by Country
+
+Used a country filter to display sales for one country at a time.
+
+#### 3. Top Five Salespeople
+
+Used a Pivot Table to identify the top-performing salespeople based on sales amount.
+
+#### 4. Salesperson Performance by Month
+
+Compared salesperson performance month by month using Rows and Columns in a Pivot Table.
+
+### Screenshot
+
+![Pivot Table Exercises](https://github.com/Ankitmahato-0509/Excel/blob/main/images/Screenshot%202026-08-11%20210759.png?raw=true)
+
+
+
+
