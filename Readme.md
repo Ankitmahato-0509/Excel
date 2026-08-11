@@ -831,5 +831,94 @@ Compared salesperson performance month by month using Rows and Columns in a Pivo
 ![Pivot Table Exercises](https://github.com/Ankitmahato-0509/Excel/blob/main/images/Screenshot%202026-08-11%20210759.png?raw=true)
 
 
+# 15. VLOOKUP, HLOOKUP & XLOOKUP
+
+**File:** `15.VLookup , HLookup & XLookup.xlsx`
+
+### Concepts Covered
+
+- Understanding VLOOKUP
+- Understanding HLOOKUP
+- Understanding XLOOKUP
+- Looking up values from tables
+- Searching data vertically
+- Searching data horizontally
+- Retrieving employee information
+- Retrieving product prices
+- Working with Employee Numbers
+- Using lookup functions for data retrieval
+
+## VLOOKUP Exercise 1
+
+This exercise uses Employee Numbers to retrieve employee information.
+
+The employee dataset includes:
+
+- Employee Number
+- Name
+- Address
+- Phone
+
+The lookup table contains employee details, and VLOOKUP is used to retrieve the required information based on the Employee Number.
+
+### Screenshot
+
+![VLOOKUP Exercise 1](https://github.com/Ankitmahato-0509/Excel/blob/main/images/Screenshot%202026-08-11%20212127.png?raw=true)
+
+## VLOOKUP Exercise 2
+
+This exercise uses a product price table and sales data.
+
+### Products Included
+
+- Burgers
+- Chips
+- Fish
+- Lasagne
+- Pies
+- Pizzas
+- Quiche
+- Salads
+- Sandwiches
+- Soup
+
+The exercise calculates:
+
+- Total sales of each item over six days
+- Total income for each item during the six-day period
+- Product price lookup
+
+### Screenshot
+
+![VLOOKUP Exercise 2](https://github.com/Ankitmahato-0509/Excel/blob/main/images/Screenshot%202026-08-11%20212139.png?raw=true)
+
+## HLOOKUP
+
+HLOOKUP (Horizontal Lookup) searches for a value in the top row of a table and returns a corresponding value from a specified row.
+
+### HLOOKUP Exercise
+
+The HLOOKUP exercise uses Employee Numbers arranged horizontally.
+
+It retrieves:
+
+- Employee Name
+- Address
+- Phone Number
+
+The Employee Numbers are placed across the columns, while the employee information is arranged in rows.
+
+### Screenshot
+
+![HLOOKUP](https://github.com/Ankitmahato-0509/Excel/blob/main/images/Screenshot%202026-08-11%20212151.png?raw=true)
+
+## XLOOKUP
+
+XLOOKUP is a modern lookup function in Excel that can search for a value and return a corresponding result from another range.
+
+### Syntax
+
+```excel
+=XLOOKUP(lookup_value, lookup_array, return_array)
 
 
