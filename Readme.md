@@ -912,13 +912,44 @@ The Employee Numbers are placed across the columns, while the employee informati
 
 ![HLOOKUP](https://github.com/Ankitmahato-0509/Excel/blob/main/images/Screenshot%202026-08-11%20212151.png?raw=true)
 
-## XLOOKUP
+ ## XLOOKUP
 
-XLOOKUP is a modern lookup function in Excel that can search for a value and return a corresponding result from another range.
+## XLOOKUP – Employee Lookup
 
-### Syntax
+This exercise uses an employee dataset containing:
 
-```excel
-=XLOOKUP(lookup_value, lookup_array, return_array)
+- EmpID
+- Name
+- Job Title
+- Department
+- Location
+- Email
+- Phone
+
+XLOOKUP is used to search for an employee and return the required information from another column.
+
+### Lookup by Name
+
+The lookup table searches for an employee by **Full Name** and returns information such as:
+
+- Job Title
+- Emp ID
+- Department
+- Location
+
+### Lookup by Employee ID
+
+The second lookup table searches using an **Employee ID** and returns:
+
+- Full Name
+- Job Title
+- Department
+- Email
+
+### Screenshot
+
+![XLOOKUP](https://github.com/Ankitmahato-0509/Excel/blob/main/images/Screenshot%202026-08-17%20231334.png?raw=true)
+
+
 
 
