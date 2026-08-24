@@ -951,5 +951,57 @@ The second lookup table searches using an **Employee ID** and returns:
 ![XLOOKUP](https://github.com/Ankitmahato-0509/Excel/blob/main/images/Screenshot%202026-08-17%20231334.png?raw=true)
 
 
+# 16. Index & Match Function
+
+**File:** `16.Index & Match Function.xlsx`
+
+### Concepts Covered
+
+- INDEX Function
+- MATCH Function
+- Using INDEX and MATCH together
+- Searching for values in a table
+- Returning values based on a matching position
+- Creating lookup tables
+- Applying INDEX + MATCH to employee data
+
+## Exercise 1 – INDEX & MATCH
+
+This exercise demonstrates the use of the **INDEX** and **MATCH** functions to find values from a table.
+
+### INDEX Function
+
+The INDEX function returns a value from a specific position within a table or range.
+
+### MATCH Function
+
+The MATCH function searches for a specified value in a range and returns its position.
+
+### Using INDEX + MATCH
+
+INDEX and MATCH are combined to perform flexible lookup operations.
+
+### Screenshot
+
+![INDEX & MATCH – Exercise 1](https://github.com/Ankitmahato-0509/Excel/blob/main/images/Screenshot%202026-08-24%20230535.png?raw=true)
+
+## Exercise 2 – INDEX & MATCH
+
+This exercise uses employee information to practice INDEX + MATCH.
+
+The dataset includes:
+
+- Name
+- Employee ID
+- Department
+- Extension Number
+- Email
+
+The completed exercise demonstrates retrieving employee information using INDEX and MATCH.
+
+### Screenshot
+
+![INDEX & MATCH – Exercise 2](https://github.com/Ankitmahato-0509/Excel/blob/main/images/Screenshot%202026-08-24%20230558.png?raw=true)
+
 
 
