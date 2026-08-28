@@ -1044,7 +1044,7 @@ The dataset includes:
 
 
 
-## Exercise 2 – AND Function
+## Exercise 2 – AND & OR Function
 
 This exercise demonstrates the use of logical conditions to evaluate employee eligibility based on experience and salary.
 
