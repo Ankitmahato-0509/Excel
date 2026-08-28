@@ -1005,3 +1005,96 @@ The completed exercise demonstrates retrieving employee information using INDEX 
 
 
 
+# 17. Logical Operations
+
+**File:** `17.Logical Operations.xlsx`
+
+### Concepts Covered
+
+- IF Function
+- AND Function
+- OR Function
+- NOT Function
+- Using logical conditions
+- Combining multiple conditions
+- Conditional calculations
+- Applying logical operations to employee data
+- Evaluating salary and performance conditions
+
+
+
+## Exercise 1 – IF Function
+
+This exercise demonstrates the use of the **IF function** to calculate employee bonuses based on their grade.
+
+### Bonus Calculation
+
+Employees with **Grade A or Grade B** receive a bonus equal to **10% of their salary**.
+
+The dataset includes:
+
+- Employee
+- Grade
+- Salary
+- Bonus
+
+### Screenshot
+
+![Logical Operations – Exercise 1](https://github.com/Ankitmahato-0509/Excel/blob/main/images/Screenshot%202026-08-28%20231835.png?raw=true)
+
+
+
+## Exercise 2 – AND Function
+
+This exercise demonstrates the use of logical conditions to evaluate employee eligibility based on experience and salary.
+
+The dataset includes:
+
+- Job Title
+- Experience (Years)
+- Annual Salary ($USD)
+- Bonus Max ($USD)
+- Meets Experience
+- Meets Salary
+- Meets Both
+- Meets Goals
+- Goal Status
+
+### Conditions Covered
+
+- Checking required experience
+- Checking required salary
+- Checking whether both conditions are met
+- Checking whether goals are met
+
+### Screenshot
+
+![Logical Operations – Exercise 2](https://github.com/Ankitmahato-0509/Excel/blob/main/images/Screenshot%202026-08-28%20231849.png?raw=true)
+
+
+
+## Exercise 3 – Logical Operations
+
+This exercise applies logical operators to analyze job and salary-related conditions.
+
+The exercise includes:
+
+- AND
+- OR
+- NOT
+- Data conditions
+- Business conditions
+- Both Roles
+- Salary conditions
+- Salary > 85K
+- Salary Buckets
+
+The results are used to evaluate different conditions and classify the job data.
+
+### Screenshot
+
+![Logical Operations – Exercise 3](https://github.com/Ankitmahato-0509/Excel/blob/main/images/Screenshot%202026-08-28%20231929.png?raw=true)
+
+
+
+
