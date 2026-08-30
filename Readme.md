@@ -1096,5 +1096,115 @@ The results are used to evaluate different conditions and classify the job data.
 ![Logical Operations – Exercise 3](https://github.com/Ankitmahato-0509/Excel/blob/main/images/Screenshot%202026-08-28%20231929.png?raw=true)
 
 
+# 18. Aggregation & Conditional Aggregation Functions
+
+**File:** `18.Aggregation & Conditional Aggregation Functions.xlsx`
+
+### Concepts Covered
+
+- COUNT Function
+- SUM Function
+- AVERAGE Function
+- MIN Function
+- MAX Function
+- SUMIF Function
+- SUMIFS Function
+- AVERAGEIF Function
+- AVERAGEIFS Function
+- COUNTIF Function
+- COUNTIFS Function
+- COUNTBLANK Function
+- MINIFS Function
+- MAXIFS Function
+- Conditional Aggregation
+- Multiple Conditions
+- Data Analysis using Excel Functions
+
+
+
+## Aggregation Functions
+
+This exercise demonstrates how aggregation functions can be used to summarize and analyze salary and job-related data.
+
+### COUNT
+
+Counts cells containing numbers.
+
+### SUM
+
+Adds all numbers in a range.
+
+### AVERAGE
+
+Calculates the mathematical mean of a range.
+
+### MIN & MAX
+
+Finds the lowest and highest values in a range.
+
+
+## Conditional Aggregation Functions
+
+This exercise demonstrates how to perform calculations based on one or multiple conditions.
+
+### SUMIF
+
+Adds numbers that meet one specific condition.
+
+### SUMIFS
+
+Adds numbers that meet multiple conditions.
+
+### AVERAGEIF
+
+Calculates the average based on one condition.
+
+### AVERAGEIFS
+
+Calculates the average based on multiple conditions.
+
+### COUNTIF
+
+Counts cells that match one condition.
+
+### COUNTIFS
+
+Counts cells that match multiple conditions.
+
+### COUNTBLANK
+
+Counts completely empty cells in a range.
+
+### MINIFS & MAXIFS
+
+Finds the lowest or highest value based on multiple conditions.
+
+
+
+## Data Analysis
+
+The exercise uses job and salary data to practice aggregation and conditional aggregation.
+
+The analysis includes:
+
+- Counting employees and records
+- Calculating total salary
+- Calculating average salary
+- Finding minimum salary
+- Finding maximum salary
+- Analyzing salary based on job roles
+- Applying single conditions
+- Applying multiple conditions
+- Comparing salary-related results
+
+
+
+## Screenshot
+
+![Aggregation & Conditional Aggregation Functions](https://github.com/Ankitmahato-0509/Excel/blob/main/images/Screenshot%202026-08-31%20000901.png?raw=true)
+
+
+
+
 
 
